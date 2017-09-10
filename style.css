@@ -1,0 +1,35 @@
+#outer-box{
+	background: #7D1806;
+	width: 80%;
+	height: 500px;
+	margin: 10px auto;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 30px;
+	font-weight: bold;
+}
+
+#inner-box{
+	border: double 3px #AA685D;
+	width: 50%;
+	margin: 0px auto;	
+	padding: 10px;
+}
+
+img{
+	width: 100px;
+	height: 100px;
+}
+
+#inner-box p{
+	font-size: 48px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.smaller-text{
+	font-size: 32px;
+	font-weight: normal;
+}
+
